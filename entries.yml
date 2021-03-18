@@ -3,7 +3,7 @@ ENTRIES:
     date: 2021/3/18
     tags: 
       - features
-    content: |
+    content: >
       Checking video support...
 
       <video autoplay loop muted controls>
