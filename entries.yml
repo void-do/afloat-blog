@@ -7,7 +7,7 @@ ENTRIES:
       Checking video support...
 
       <video autoplay loop muted controls>
-        <source src="https://api.github.com/repos/void-do/afloat-blog/contents/hero.mp4" type="video/mp4" />
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" />
       </video>
 
   - title: Hello World
