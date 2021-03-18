@@ -3,12 +3,10 @@ ENTRIES:
     date: 2021/3/18
     tags: 
       - features
-    content: >
+    content:
       Checking video support...
 
-      <video autoplay loop muted controls>
-        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" />
-      </video>
+      <video autoplay loop muted controls><source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" /></video>
 
   - title: Hello World
     date: 2021/3/16
