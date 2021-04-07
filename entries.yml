@@ -58,7 +58,7 @@ ENTRIES:
       Today Afloat is officially open for business! Many things are to come, but today we start our journey.
 
       <video autoPlay loop muted controls>
-        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/faloat-hello-world.mp4" type="video/mp4" />
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-hello-world.mp4" type="video/mp4" />
       </video>
 
   - title: Hello World 👋
