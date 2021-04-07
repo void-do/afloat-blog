@@ -8,19 +8,19 @@ ENTRIES:
 
   #     <video autoPlay loop muted controls><source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" /></video
 
-  - title: Delete account 💔
-    date: 2021/4/1
-    tags:
-      - features
-    content: |
-      Not happy with Afloat? Want to move on in life? As sad as we would be we let you delete all the data we have with a button, no dark pattern, no cryptic forms.
+  # - title: Delete account 💔
+  #   date: 2021/4/1
+  #   tags:
+  #     - features
+  #   content: |
+  #     Not happy with Afloat? Want to move on in life? As sad as we would be we let you delete all the data we have with a button, no dark pattern, no cryptic forms.
 
   - title: Instant preview ⚡️
     date: 2021/3/30
     tags:
       - features
     content: |
-      Looking for that specific invoice or expense? Afloat let's you preview anything instantly.
+      Looking for that specific invoice? Afloat lets you preview anything instantly.
 
       <video autoPlay loop muted controls>
         <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-instant-preview.mp4" type="video/mp4" />
@@ -38,7 +38,7 @@ ENTRIES:
     tags:
       - features
     content: |
-      With our invoice editor you always see exactly how the invoice will look once it's done. No forms, no complicated procedures, just a simple editor.
+      With our invoice editor you always see exactly how the invoice will look once it's done. No forms, no spreadsheets, just a simple editor.
 
   - title: Multiple currencies 🌍
     date: 2021/3/23
