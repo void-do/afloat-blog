@@ -6,7 +6,7 @@ ENTRIES:
   #   content: |
   #     Checking video support...
 
-  #     <video autoPlay loop muted controls|<source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" /|</video|
+  #     <video autoPlay loop muted controls><source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" /></video
 
   - title: Delete account 💔
     date: 2021/4/1
@@ -56,6 +56,10 @@ ENTRIES:
       - news
     content: |
       Today Afloat is officially open for business! Many things are to come, but today we start our journey.
+
+      <video autoPlay loop muted controls>
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/faloat-hello-world.mp4" type="video/mp4" />
+      </video>
 
   - title: Hello World 👋
     date: 2021/3/16
