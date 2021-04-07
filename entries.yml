@@ -24,7 +24,7 @@ ENTRIES:
 
       <video autoPlay loop muted controls>
         <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-instant-preview.mp4" type="video/mp4" />
-      </video
+      </video>
 
   - title: Tax Returns
     date: 2021/3/28
