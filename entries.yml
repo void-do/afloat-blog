@@ -50,6 +50,10 @@ ENTRIES:
     content: |
       Afloat is here to help! Afloat completes your invoices and expenses for you, all you need to do is fine tune the last details.
 
+      <video autoPlay loop muted controls>
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-autocomplete.mp4" type="video/mp4" />
+      </video>
+
   - title: We are live! 🎉
     date: 2021/3/19
     tags:
