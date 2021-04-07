@@ -1,16 +1,65 @@
 ENTRIES:
   # - title: Video Support
   #   date: 2021/3/18
-  #   tags: 
+  #   tags:
   #     - features
-  #   content: >
+  #   content: |
   #     Checking video support...
 
-  #     <video autoPlay loop muted controls><source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" /></video>
+  #     <video autoPlay loop muted controls|<source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" /|</video|
 
-  - title: Hello World
-    date: 2021/3/16
-    tags: 
+  - title: Delete account 💔
+    date: 2021/4/1
+    tags:
+      - features
+    content: |
+      Not happy with Afloat? Want to move on in life? As sad as we would be we let you delete all the data we have with a button, no dark pattern, no cryptic forms.
+
+  - title: Instant preview
+    date: 2021/3/30
+    tags:
+      - features
+    content: |
+      Looking for that specific invoice or expense? Afloat let's you preview anything instantly.
+
+  - title: Tax Returns
+    date: 2021/3/28
+    tags:
+      - features
+    content: |
+      Time to send your tax returns to your accountant? Afloat will help you out! With one click Afloat will organize all your income and expenses into folders, and create excel sheets with all your information. All you need to do is send it to your accountant and you're done.
+
+  - title: Invoice editor
+    date: 2021/3/26
+    tags:
+      - features
+    content: |
+      With our invoice editor you always see exactly how the invoice will look once it's done. No forms, no complicated procedures, just a simple editor.
+
+  - title: Multiple currencies 🌍
+    date: 2021/3/23
+    tags:
+      - features
+    content: |
+      Invoiced in Canadian Dollar but got paid in Swedish Kronor? No problem! Afloat supports all the currencies you will ever need.
+
+  - title: Autocompletion
+    date: 2021/3/21
+    tags:
+      - features
+    content: |
+      Afloat is here to help! Afloat completes your invoices and expenses for you, all you need to do is fine tune the last details.
+
+  - title: We are live! 🎉
+    date: 2021/3/19
+    tags:
       - news
-    content: >
+    content: |
+      Today Afloat is officially open for business! Many things are to come, but today we start our journey.
+
+  - title: Hello World 👋
+    date: 2021/3/16
+    tags:
+      - news
+    content: |
       Exciting news! We have a new blog! Here we will regularly post new features, updates, and other news.
