@@ -26,10 +26,6 @@ ENTRIES:
         <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-instant-preview.mp4" type="video/mp4" />
       </video
 
-      <video autoPlay loop muted controls>
-        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-instant-preview-bg.mp4" type="video/mp4" />
-      </video
-
   - title: Tax Returns
     date: 2021/3/28
     tags:
