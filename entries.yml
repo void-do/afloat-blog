@@ -14,7 +14,7 @@ ENTRIES:
   #     Different client, different vibe. With our templates you can completely change the tone of your invoice. Simpler or bolder? Your choice.
 
   - title: Instant preview ⚡️
-    date: 2021/3/30
+    date: 2021/4/6
     tags:
       - features
     content: |
@@ -25,11 +25,23 @@ ENTRIES:
       </video>
 
   - title: Tax Returns
-    date: 2021/3/28
+    date: 2021/4/3
     tags:
       - features
     content: |
       Time to send your tax returns to your accountant? Afloat will help you out! With one click Afloat will organize all your income and expenses into folders, and create excel sheets with all your information. All you need to do is send it to your accountant and you're done.
+
+
+  - title: Autocompletion
+    date: 2021/3/29
+    tags:
+      - features
+    content: |
+      Afloat is here to help! Afloat completes your invoices and expenses for you, all you need to do is fine tune the last details.
+
+      <video autoPlay loop muted controls>
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-autocomplete.mp4" type="video/mp4" />
+      </video>
 
   - title: Invoice editor
     date: 2021/3/26
@@ -47,17 +59,6 @@ ENTRIES:
 
       <video autoPlay loop muted controls>
         <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-multicurrency.mp4" type="video/mp4" />
-      </video>
-
-  - title: Autocompletion
-    date: 2021/3/21
-    tags:
-      - features
-    content: |
-      Afloat is here to help! Afloat completes your invoices and expenses for you, all you need to do is fine tune the last details.
-
-      <video autoPlay loop muted controls>
-        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-autocomplete.mp4" type="video/mp4" />
       </video>
 
   - title: We are live! 🎉
