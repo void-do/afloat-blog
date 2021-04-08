@@ -1,19 +1,17 @@
 ENTRIES:
-  # - title: Video Support
-  #   date: 2021/3/18
+  # - title: Language support
+  #   date: 2021/4/3
   #   tags:
   #     - features
   #   content: |
-  #     Checking video support...
+  #     Want to send an invoice in the clients native language? No problem! Afloat supports different invoice languages. Don't find a specific language in our systems? Send us a message and we will add it for you.
 
-  #     <video autoPlay loop muted controls><source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/hero.mp4" type="video/mp4" /></video
-
-  # - title: Delete account 💔
+  # - title: Templates 🕶️
   #   date: 2021/4/1
   #   tags:
   #     - features
   #   content: |
-  #     Not happy with Afloat? Want to move on in life? As sad as we would be we let you delete all the data we have with a button, no dark pattern, no cryptic forms.
+  #     Different client, different vibe. With our templates you can completely change the tone of your invoice. Simpler or bolder? Your choice.
 
   - title: Instant preview ⚡️
     date: 2021/3/30
@@ -46,6 +44,10 @@ ENTRIES:
       - features
     content: |
       Invoiced in Canadian Dollar but got paid in Swedish Kronor? No problem! Afloat supports all the currencies you will ever need.
+
+      <video autoPlay loop muted controls>
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-multicurrency.mp4" type="video/mp4" />
+      </video>
 
   - title: Autocompletion
     date: 2021/3/21
