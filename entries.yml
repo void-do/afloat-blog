@@ -18,9 +18,9 @@ ENTRIES:
     tags:
       - features
     content: |
-      Afloat now supports searching and sorting.
-
+      Afloat now supports searching and sorting.  
       Search for absolutely anything in invoices and expenses. Clients, item names, prices, addresses... anything!
+
       Looking for that invoice that had an item that cost $127 but you don't remember the name of it? Easy! Search for 127, and boom, it's there!
 
        <video autoPlay loop muted controls>
