@@ -13,6 +13,14 @@ ENTRIES:
   #   content: |
   #     Different client, different vibe. With our templates you can completely change the tone of your invoice. Simpler or bolder? Your choice.
 
+
+  - title: Searching for something? We'll sort you out! 🔍
+    date: 2021/4/6
+    tags:
+      - features
+    content: |
+      Afloat now supports all the searching and sorting you could ask for (and not more). Search for absolutely anything in invoices and expenses. Looking for that invoice that had an item that cost 451 SEK but you don't remember the name of it? Easy! Search for 451, and boom, it's there!
+
   - title: Instant preview ⚡️
     date: 2021/4/6
     tags:
