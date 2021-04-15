@@ -13,13 +13,19 @@ ENTRIES:
   #   content: |
   #     Different client, different vibe. With our templates you can completely change the tone of your invoice. Simpler or bolder? Your choice.
 
-
   - title: Searching for something? We'll sort you out! 🔍
     date: 2021/4/15
     tags:
       - features
     content: |
-      Afloat now supports all the searching and sorting you could ask for (but not more). Search for absolutely anything in invoices and expenses. Looking for that invoice that had an item that cost 451 SEK but you don't remember the name of it? Easy! Search for 451, and boom, it's there!
+      Afloat now supports searching and sorting.
+
+      Search for absolutely anything in invoices and expenses. Clients, item names, prices, addresses... anything!
+      Looking for that invoice that had an item that cost $127 but you don't remember the name of it? Easy! Search for 127, and boom, it's there!
+
+       <video autoPlay loop muted controls>
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-search.mp4" type="video/mp4" />
+      </video>
 
   - title: Instant preview ⚡️
     date: 2021/4/6
@@ -38,7 +44,6 @@ ENTRIES:
       - features
     content: |
       Time to send your tax returns to your accountant? Afloat will help you out! With one click Afloat will organize all your income and expenses into folders, and create excel sheets with all your information. All you need to do is send it to your accountant and you're done.
-
 
   - title: Autocompletion
     date: 2021/3/29
