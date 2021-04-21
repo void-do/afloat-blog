@@ -1,10 +1,4 @@
 ENTRIES:
-  # - title: Language support
-  #   date: 2021/4/3
-  #   tags:
-  #     - features
-  #   content: |
-  #     Want to send an invoice in the clients native language? No problem! Afloat supports different invoice languages. Don't find a specific language in our systems? Send us a message and we will add it for you.
 
   # - title: Templates 🕶️
   #   date: 2021/4/1
@@ -12,6 +6,17 @@ ENTRIES:
   #     - features
   #   content: |
   #     Different client, different vibe. With our templates you can completely change the tone of your invoice. Simpler or bolder? Your choice.
+
+  - title: Languages 🌍
+    date: 2021/4/19
+    tags:
+      - features
+    content: |
+      Want to send an invoice in the clients' native language? Sin problema! Afloat supports different invoice languages. If you can't find the language you are looking for just send us a message and we will add it for you.
+
+      <video autoPlay loop muted controls>
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-languages.mp4" type="video/mp4" />
+      </video>
 
   - title: Searching for something? We'll sort you out! 🔍
     date: 2021/4/15
@@ -63,7 +68,7 @@ ENTRIES:
     content: |
       With our invoice editor you always see exactly how the invoice will look once it's done. No forms, no spreadsheets, just a simple editor.
 
-  - title: Multiple currencies 🌍
+  - title: Multiple currencies 💵
     date: 2021/3/23
     tags:
       - features
