@@ -1,5 +1,4 @@
 ENTRIES:
-
   # - title: Templates 🕶️
   #   date: 2021/4/1
   #   tags:
@@ -15,7 +14,7 @@ ENTRIES:
       Want to send an invoice in the clients' native language? Sin problema! Afloat supports different invoice languages. If you can't find the language you are looking for just send us a message and we will add it for you.
 
       <video autoPlay loop muted controls>
-        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-languages.mp4" type="video/mp4" />
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-multiple-languages.mp4" type="video/mp4" />
       </video>
 
   - title: Searching for something? We'll sort you out! 🔍
