@@ -11,7 +11,7 @@ ENTRIES:
     tags:
       - features
     content: |
-      You can now customize the label for the primary and secondary tax with any text you want. And, as usual, Afloat will remember and autocomplete your decision for future invoices.
+      You can now customize the label for the tax fields with any text you want! And, as usual, Afloat will remember and autocomplete your decision for future invoices.
 
       <video autoPlay loop muted controls>
         <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-custom-tax-label.mp4" type="video/mp4" />
