@@ -6,6 +6,18 @@ ENTRIES:
   #   content: |
   #     Different client, different vibe. With our templates you can completely change the tone of your invoice. Simpler or bolder? Your choice.
 
+  - title: Custom Tax labels 📝
+    date: 2021/4/28
+    tags:
+      - features
+    content: |
+      You can now customize the label for the primary and secondary tax with any text you want.  
+      As usual, Afloat will remember and autocomplete your decision for future invoices.
+
+      <video autoPlay loop muted controls>
+        <source src="https://raw.githubusercontent.com/void-do/afloat-blog/master/media/afloat-custom-tax-label.mp4" type="video/mp4" />
+      </video>
+
   - title: Languages 🌍
     date: 2021/4/19
     tags:
